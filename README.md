@@ -1,41 +1,49 @@
-# 🐞 Bug Tracking System (JIRA-lite) – UML Diagrams
+# 🧩 Advanced UML Systems Architecture Repository
 
-This repository contains UML diagrams for the **Bug Tracking System**, a project designed to help teams **report, track, assign, and manage software bugs** efficiently.
+### by **Gowri Javgal**
 
----
-
-## 🧩 Included Diagrams
-- ✅ Use Case Diagram  
-- ✅ Class Diagram  
-- ✅ Sequence Diagram  
-- ✅ Activity Diagram  
-
-All diagrams were created using **Whimsical**.
+This repository is a curated collection of **UML diagrams** designed for **modern, real-world software systems** — focusing on **AI, Cloud, IoT, DevOps, and Agile-based** applications.  
+It demonstrates strong skills in **software analysis, design, and project management**, using **UML (Unified Modeling Language)** as a professional communication tool between stakeholders, developers, and analysts.
 
 ---
 
-## 📘 Project Description
-The Bug Tracking System allows:
-- **Testers** to report and view bugs  
-- **Developers** to update bug status  
-- **Project Managers** to assign and monitor issues  
-- **Admins** to manage users and projects  
+## 🎯 Objective
 
-It models the real-world process of identifying, fixing, and verifying bugs in software development.
+To showcase the ability to **analyze, design, and model** complex software systems using standardized UML techniques including:
 
----
+- Use Case Diagrams  
+- Class Diagrams  
+- Sequence Diagrams  
+- Activity Diagrams  
+- Component & Deployment Diagrams  
 
-## 🖼️ Diagrams Preview
-
-*(Add your exported UML images here)*  
-Example:
-
-![Use Case Diagram](./diagrams/UseCaseDiagram.png)
-![Class Diagram](./diagrams/ClassDiagram.png)
+This repository serves as a visual portfolio for **Software Engineering and Project Management** concepts applied to **next-generation system design**.
 
 ---
 
-## 👩‍💻 Created By
-**Gowri Javgal**  
-For the subject: *Software Engineering & Project Management*  
-November 2025
+## 🧠 Featured Projects
+
+| Project | Description | UML Types Included |
+|----------|--------------|--------------------|
+| **AI-Enhanced Bug Tracking System** | An intelligent bug tracking and assignment platform with ML-based developer insights. | Use Case, Class, Sequence, Activity |
+| **Agile Sprint Management Dashboard** | Tracks sprint progress, backlog health, and team velocity in Agile projects. | Use Case, Component, Activity |
+| **DevOps Workflow Automation Tool** | Models CI/CD pipelines integrating GitHub, Docker, and cloud deployment stages. | Sequence, Deployment, Class |
+| **Cloud Cost Optimization Platform** | Analyzes resource utilization and recommends cost-saving strategies using analytics. | Use Case, Class, Sequence |
+| **AI-Powered HR Recruitment System** | Automates candidate screening and shortlisting using NLP and AI matching. | Use Case, Class, Activity, Sequence |
+| **IoT-Based Smart Energy Management** | Controls and monitors power usage in smart buildings via IoT sensors. | Use Case, Class, Sequence |
+| **Blockchain Supply Chain Tracker** | Ensures transparency and authenticity in product shipping via blockchain technology. | Use Case, Deployment, Activity |
+| **AI-Driven Personal Finance Manager** | Learns user spending patterns and provides predictive budgeting suggestions. | Use Case, Class, Sequence |
+
+---
+
+## ⚙️ Tools Used
+
+- **Whimsical** – for high-quality, collaborative UML diagrams  
+- **Draw.io / Diagrams.net** – for clear visual workflows  
+- **Lucidchart / Visual Paradigm** – for component and deployment modeling  
+- **Mermaid (GitHub-compatible)** – for lightweight markdown UML visuals  
+
+---
+
+## 🏗️ Repository Structure
+
